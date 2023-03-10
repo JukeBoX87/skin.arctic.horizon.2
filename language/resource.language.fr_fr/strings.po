@@ -159,7 +159,7 @@ msgstr "Non installé"
 #: /1080i/Dialogs.xml
 msgctxt "#31028"
 msgid "Outline"
-msgstr "Contour"
+msgstr "Aperçu"
 
 #: /1080i/Items.xml
 msgctxt "#31029"
