@@ -304,7 +304,7 @@ msgstr "critiques"
 #: /1080i/Objects.xml
 msgctxt "#31057"
 msgid "Years Old"
-msgstr "Années"
+msgstr "Ans"
 
 #: /1080i/Custom_Backgrounds_1112.xml
 msgctxt "#31058"
